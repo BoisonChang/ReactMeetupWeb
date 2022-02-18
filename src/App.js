@@ -13,6 +13,7 @@ function App() {
             <Route path='/new-meetup' element={<NewMeetupPage/>}></Route>
             <Route path='/favorites' element={<FavoritesPage/>}></Route>
           </Routes>
+          <AllMeetupsPage/>
       </Layout>
 
     </div>
