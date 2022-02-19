@@ -1,5 +1,6 @@
 {
   "name": "first-react",
+  "homepage": "https://BoisonChang.github.io/React-MeetupWeb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
